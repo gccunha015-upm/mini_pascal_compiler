@@ -1,7 +1,17 @@
 # Mini Pascal Compiler
-Simplified **Python** compiler for the [Mini Pascal] language. The tools used were [Jupyter Notebook], [rply], [re], [networkx], [matplotlib] and [itertools].
+## About
+Simplified **Python** compiler for the [Mini Pascal] language.
 
+## Why
 Developed as a requirement for the **compiladores (compilers)** subject during my 6th semester of Computer Science.
+
+## Tools used
+- [Jupyter Notebook]
+- [rply]
+- [re]
+- [networkx]
+- [matplotlib]
+- [itertools]
 
 [Mini Pascal]: http://www.facom.ufms.br/~ricardo/Courses/CompilerII-2009/Lectures/minipascalsyntax.html
 [Jupyter Notebook]: https://jupyter.org/
