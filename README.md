@@ -20,3 +20,7 @@ Developed as a requirement for the **compiladores (compilers)** subject during m
 [networkx]: https://networkx.org/
 [matplotlib]: https://matplotlib.org/
 [itertools]: https://docs.python.org/3/library/itertools.html
+
+## Authors
+- Gabriel Coelho da Cunha
+- Renan de Oliveira Rocha
